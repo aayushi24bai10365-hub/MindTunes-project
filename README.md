@@ -98,7 +98,7 @@ If mood = calm:
 
 ---
 
-## What future improvements i look forward to:
+## The future improvements i look forward to:
 
 * Add GUI (Java Swing / JavaFX)
 * Integrate AI-based mood detection
