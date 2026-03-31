@@ -57,7 +57,7 @@ src/ is further divided into:
 
 ##  Getting Started
 
-### wWhat are the prerequisites
+### What are the prerequisites
 
 * Java JDK installed in your system
 * You should have IntelliJ IDEA / any Java IDE
