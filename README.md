@@ -66,23 +66,20 @@ src/ is further divided into:
 
 1. Clone the repository:
 
-```
 git clone https://github.com/aayushi24bai10365-hub/MindTunes-project.git
-```
+
 
 2. Open in IntelliJ IDEA
 
 3. Run:
 
-```
 MainApp.java
-```
 
 ---
 
 ## Here is an example output
 
-```
+
 How to feel better:
 
 If mood = sad:
@@ -94,7 +91,6 @@ If mood = calm:
 - Try meditation
 - Take a break from screens
 - Drink water and relax
-```
 
 ---
 
